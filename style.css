@@ -1,0 +1,31 @@
+#app {
+  font-size: 12px;
+  width: 500px;
+}
+
+.bar {
+  background: blue;
+  height: 60px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.a {
+  color: red;
+}
+
+.update {
+  color: black;
+  position: relative;
+}
+
+.enter {
+  color: green;
+  position: relative;
+}
+
+.yearLabel {
+  font-size: 80px;
+  font-weight: bold;
+  fill: #ccc;
+}
